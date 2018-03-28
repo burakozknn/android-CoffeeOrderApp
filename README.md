@@ -3,3 +3,5 @@ width="300" height="500"  />
 
 
 # android-CoffeeOrderApp
+
+This app allows the customer to place an order quickly and displays a real-time total.
